@@ -30,6 +30,7 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://daisyui.com/" target="_blank"> <img src="https://daisyui.com/favicon.ico" alt="daisyui" width="40" height="40"/> </a> 
 <a href="https://chakra-ui.com/" target="_blank"> <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/> </a> 
+<a href="https://mui.com" target="_blank"> <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/> </a> 
 
 
 

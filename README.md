@@ -32,6 +32,7 @@
 <a href="https://chakra-ui.com/" target="_blank"> <img src="https://chakra-ui.com/favicon.png" alt="chakraui" width="40" height="40"/> </a> 
 <a href="https://mui.com" target="_blank"> <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/> </a> 
 <a href="https://ejs.co" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS" width="40" height="40"/> </a> 
+<a href="https://php.net" target="_blank"> <img src="https://www.php.net/favicon.ico" alt="PHP" width="40" height="40"/> </a> 
 
 
 

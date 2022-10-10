@@ -36,6 +36,7 @@
 <a href="https://ejs.co" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS" width="40" height="40"/> </a> 
 <a href="https://php.net" target="_blank"> <img src="https://www.php.net/favicon.ico" alt="PHP" width="40" height="40"/> </a> 
 <a href="https://wordpress.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png?20170312030453" alt="WordPress" width="40" height="40"/> </a> 
+<a href="https://cyberpanel.net" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVon3Ixa3NVfEdYwmNJzbDFF7cpQpSNxs2Og&usqp=CAU" alt="CyberPanel" width="40" height="40"/> </a> 
 
 
 

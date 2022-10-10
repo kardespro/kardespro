@@ -37,6 +37,7 @@
 <a href="https://php.net" target="_blank"> <img src="https://www.php.net/favicon.ico" alt="PHP" width="40" height="40"/> </a> 
 <a href="https://wordpress.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png?20170312030453" alt="WordPress" width="40" height="40"/> </a> 
 <a href="https://cyberpanel.net" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVon3Ixa3NVfEdYwmNJzbDFF7cpQpSNxs2Og&usqp=CAU" alt="CyberPanel" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://icon2.cleanpng.com/20180705/o/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571c35554.1325498915307871858001.jpg" alt="Bash & Shell" width="40" height="40"/> </a> 
 
 
 

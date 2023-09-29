@@ -1,3 +1,5 @@
+![alt text](https://octodex.github.com/images/Fintechtocat.png)
+
 <h1 align="center">🤴 Next Year, Next Win </h1>
 <h1 align="center">Hi 👋, I'm Nego</h1>
 <h3 align="center">A Backend Developer from Azerbaijan</h3>

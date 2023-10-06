@@ -1,7 +1,7 @@
-![alt text](https://octodex.github.com/images/Fintechtocat.png)
+<!--![alt text](https://octodex.github.com/images/Fintechtocat.png)-->
 
 <h1 align="center">🤴 Next Year, Next Win </h1>
-<h1 align="center">Hi 👋, I'm Nego</h1>
+<h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">A Backend Developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kardespro&label=Profile%20views&color=0e75b6&style=flat" alt="kardespro" /> </p>

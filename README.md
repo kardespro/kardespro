@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kardespro" alt="kardespro" /></a> </p>
 
-- 🔭 I’m currently working on [Electra](https://discord.gg/electra)
+- 🔭 I’m currently working on [DiscordSFX](https://discordsfx.com)
 
 - 🌱 I’m currently learning **Java,Hono , Nuxtjs**
 

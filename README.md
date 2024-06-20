@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kardespro&show_icons=true&locale=en" alt="kardespro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kardespro&" alt="kardespro" /></p>
+
+<p><img align="center" src="https://lantern.rest/api/v1/users/682607343707488388?svg=1&theme=dark" alt="Lantern" width="850px"/></p>
